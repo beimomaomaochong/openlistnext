@@ -219,6 +219,6 @@ OpenListNext 是以下项目的分支 / 衍生实现：
 
 <div align="center">
 
-**Powered by OpenListNext** · 由 [OpenList 社区](https://github.com/OpenListTeam/OpenList) 驱动.
+**Powered by OpenListNext** · 由 [OpenList 社区](https://github.com/OpenListTeam/OpenList) 驱动
 
 </div>
