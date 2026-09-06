@@ -63,8 +63,9 @@ export default defineConfig({
   ],
   base: "/",
   build: {
-    // target: "es2015", //next
-    // polyfillDynamicImport: false,
+    rolldownOptions: {
+      external: ["mpegts.js"]
+    }
   },
   server: {
     host: "0.0.0.0",
